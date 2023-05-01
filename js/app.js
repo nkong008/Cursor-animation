@@ -1,6 +1,7 @@
 $(document).ready(function(){
     // let mouseCursor = $(".cursor");
     // let navLinks = $(".nav-links li");
+    //have to use regular javascript to make the cursor work!!
     let mouseCursor = document.querySelector(".cursor");
     let navLinks = document.querySelectorAll(".nav-links li");
     console.log(navLinks);
